@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Senior Blockchain | AI Developer",
+        "meta": "Mitigate.",
+        "text": [
+            "Developed the custom tokens for several platforms, adhering to ERC-20 standard, and facilitated the token's successful launch and listing on multiple exchanges.",
+            "Performed regular security audits on smart contracts and identifying and implementing vulnerabilities that improved the overall platform security posture.",
+            "Worked with leading blockchain platforms like Ethereum, BNB, Polkadot, Solana, TON to ensure efficient contract deployment, network integration and token standards like ERC-20 and ERC-721."
+        ],
+        "year": "2021 - 2024"
+    },
+    {
+        "id": 2,
+        "title": "Blockchain | AI Developer",
+        "meta": "Vivify Ideas",
+        "text": [
+            "Successfully updated and maintained blockchain applications to ensure they include latest security fixes and technological improvements with keeping the system secure and efficient.",
+            "Developed and deployed 100 over smart contracts on Ethereum blockchain for a variety of clients, ranging from creating basic tokens to build complex DApps tailored to specific business needs.",
+            "Collaborated with UI/UX designers to create intuitive interfaces for blockchain applications, resulting in improved user adoption rates.",
+            "Led the transition of client applications from traditional CEX systems to DEX platforms which helped clients reduce their operational costs and improve the reliability and integrity of their data.",
+            "Provided technical advice for clients on how to adopt blockchain tech, helping them understand the benefits and challenges of decentralized technologies."
+        ],
+        "year": "2019 - 2020"
+    },
+    {
+        "id": 3,
+        "title": "FullStack Blockchain Developer",
+        "meta": "Dignitive",
+        "text": [
+            "Designed and developed a real-time blockchain explorer web application for Kadena using Nuxt.js and WebSockets, providing users with an intuitive interface for exploring the network's data",
+            "Technical management of national and European research and development projects.",
+            "I am committed to providing my clients with the highest quality work with my skills on GPT-4, LlamaIndex, OpenAI, dApps, DEX, Defi and websites modern frontend and backend frameworks."
+        ],
+        "year": "2017 - 2019"
+    }
+]

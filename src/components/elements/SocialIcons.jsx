@@ -12,7 +12,7 @@ const SocialIcons = ({ data, rounded }) => {
 
     return (
         <ul className="mb-0 inline-flex list-none flex-wrap gap-3 pl-0 sm:gap-4">
-            {data.upwork && (
+            {/* {data.upwork && (
                 <li className="inline-block align-middle">
                     <a
                         href={data.upwork}
@@ -43,7 +43,7 @@ const SocialIcons = ({ data, rounded }) => {
                         </span>
                     </a>
                 </li>
-            )}
+            )} */}
             {/* {data.twitter && (
                 <li className="inline-block align-middle">
                     <a
